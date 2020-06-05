@@ -32,19 +32,20 @@ Contains implementation of Tree data structure and some common questions and alg
 
 ##### Binary Search Tree
 
-| 			Topic/Question			                                            |	Code in Python                              | Code in C++ |
+| 			Topic/Question			                                            |	Code in java                             | info|
 |-----------------------------------|:------------------:|:-----------------:|
 |	Binary Search Tree implementation			                                |[py](Tree/BinarySearchTree/BST.py)|[-](Tree/BinarySearchTree/BST.cpp)|
 |Check if a given array can represent Preorder Traversal of Binary Search Tree  |[py](Tree/BinarySearchTree/Check_Correct_Preorder.py)|[-](Tree/BinarySearchTree/Check_Correct_Preorder.cpp)|
 |Find the in-order ancestor of a given node in BST                              |[py](Tree/BinarySearchTree/InOrder_Ancestor.py)|[-](Tree/BinarySearchTree/InOrder_Ancestor.cpp)|
 |Find the Lowest Common Ancestor                                                |[py](Tree/BinarySearchTree/Lowest_Common_Ancestor.py)|[-](Tree/BinarySearchTree/Lowest_Common_Ancestor.cpp)|
 |Given a sorted array, create a BST with minimal height                         |[py](Tree/BinarySearchTree/Minimal_Tree.py)|[-](Tree/BinarySearchTree/Minimal_Tree.cpp)|
+|check if binary tree is BST or not                                 |[py](Tree/BinaryTree/check_BST.java)|[-](Tree/BinaryTree/Bottom_View.cpp)|
 
 ##### Binary Tree
 
 | 			Topic/Question			                                            |	Code in JAVA                             | info |
 |-----------------------------------|:------------------:|:-----------------:|
-|check if binary tree is BST or not                                 |[py](Tree/BinaryTree/Bottom_View.py)|[-](Tree/BinaryTree/Bottom_View.cpp)|
+|check if binary tree is BST or not                                 |[py](Tree/BinaryTree/check_BST.java)|[-](Tree/BinaryTree/Bottom_View.cpp)|
 |Print Nodes in Bottom View of Binary Tree                                      |[py](Tree/BinaryTree/Bottom_View.py)|[-](Tree/BinaryTree/Bottom_View.cpp)|
 |Check if a binary tree is height balanced                                      |[py](Tree/BinaryTree/Check_Balanced.py)|[-](Tree/BinaryTree/Check_Balanced.cpp)|
 |Check whether a binary tree is a full binary tree or not                       |[py](Tree/BinaryTree/Check_Full_BinaryTree.py)|[-](Tree/BinaryTree/Check_Full_BinaryTree.cpp)|
