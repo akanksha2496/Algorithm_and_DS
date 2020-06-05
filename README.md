@@ -33,7 +33,7 @@ Contains implementation of Tree data structure and some common questions and alg
 ##### Binary Search Tree
 
 | 			Topic/Question			                                            |	Code in java                           
-|-----------------------------------|:------------------:|:-----------------:|
+|-----------------------------------|:------------------:|
 |	Binary Search Tree implementation			                                |[py](Tree/BinarySearchTree/BST.py)|
 |Check if a given array can represent Preorder Traversal of Binary Search Tree  |[py](Tree/BinarySearchTree/Check_Correct_Preorder.py)|
 |Find the in-order ancestor of a given node in BST                              |[py](Tree/BinarySearchTree/InOrder_Ancestor.py)|
@@ -44,7 +44,7 @@ Contains implementation of Tree data structure and some common questions and alg
 ##### Binary Tree
 
 | 			Topic/Question			                                            |	Code in JAVA                          
-|-----------------------------------|:------------------:|:-----------------:|
+|-----------------------------------|:------------------:|
 |Print Nodes in Bottom View of Binary Tree                                      |[py](Tree/BinaryTree/Bottom_View.py)|
 |Check if a binary tree is height balanced                                      |[py](Tree/BinaryTree/Check_Balanced.py)|
 |Check whether a binary tree is a full binary tree or not                       |[py](Tree/BinaryTree/Check_Full_BinaryTree.py)|
