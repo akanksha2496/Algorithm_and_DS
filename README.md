@@ -48,6 +48,7 @@ Contains implementation of Tree data structure and some common questions and alg
 |count size of binary tree                                                      |[java](Tree/BinaryTree/number_of_nodes.java)|
 |check wheter two tree are identical or not                                                 |[java](Tree/BinaryTree/Identical_or_not.java)|
 |construct binary tree from pre order and inorder.                                      |[java](Tree/BinaryTree/Construct_tree_from_pre_inOrder.java)|
+|construct binary tree from post order and inorder.                                      |[java](Tree/BinaryTree/Construct_tree_from_post_inOrder.java)|
 |Print Nodes in Bottom View of Binary Tree                                      |[py](Tree/BinaryTree/Bottom_View.py)|
 |Check if a binary tree is height balanced                                      |[py](Tree/BinaryTree/Check_Balanced.py)|
 |Check whether a binary tree is a full binary tree or not                       |[py](Tree/BinaryTree/Check_Full_BinaryTree.py)|
