@@ -39,7 +39,7 @@ Contains implementation of Tree data structure and some common questions and alg
 |Find the in-order ancestor of a given node in BST                              |[py](Tree/BinarySearchTree/InOrder_Ancestor.py)|[-](Tree/BinarySearchTree/InOrder_Ancestor.cpp)|
 |Find the Lowest Common Ancestor                                                |[py](Tree/BinarySearchTree/Lowest_Common_Ancestor.py)|[-](Tree/BinarySearchTree/Lowest_Common_Ancestor.cpp)|
 |Given a sorted array, create a BST with minimal height                         |[py](Tree/BinarySearchTree/Minimal_Tree.py)|[-](Tree/BinarySearchTree/Minimal_Tree.cpp)|
-|check if binary tree is BST or not                                 |[py](Tree/BinaryTree/check_BST.java)|[-](Tree/BinaryTree/Bottom_View.cpp)|
+|check if binary tree is BST or not                                 |[java](Tree/BinarySearchTree/check_BST.java)|[-](Tree/BinaryTree/Bottom_View.cpp)|
 
 ##### Binary Tree
 
