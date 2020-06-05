@@ -189,11 +189,11 @@ Contains implementation of Tree data structure and some common questions and alg
 
 ##### Binary Search Tree
 
-| 			Topic/Question			                                            |	Code in Python                              
+| 			Topic/Question			                                            |	Code in Java                             
 |-----------------------------------|:------------------:|:-----------------:|
-|check if given binary tree is BST or not.                              |[py](Tree/BinarySearchTree/Minimal_Tree.py)
-|	Binary Search Tree implementation			                                |[py](Tree/BinarySearchTree/BST.py)
-|Check if a given array can represent Preorder Traversal of Binary Search Tree  |[py](Tree/BinarySearchTree/Check_Correct_Preorder.py)
+|check if given binary tree is BST or not.                                      |[py](Tree/BinarySearchTree/Minimal_Tree.py)|[-]
+|	Binary Search Tree implementation			                                        |[py](Tree/BinarySearchTree/BST.py)![-]
+|Check if a given array can represent Preorder Traversal of Binary Search Tree  |[py](Tree/BinarySearchTree/Check_Correct_Preorder.py)|
 |Find the in-order ancestor of a given node in BST                              |[py](Tree/BinarySearchTree/InOrder_Ancestor.py)
 |Find the Lowest Common Ancestor                                                |[py](Tree/BinarySearchTree/Lowest_Common_Ancestor.py)
 |Given a sorted array, create a BST with minimal height                         |[py](Tree/BinarySearchTree/Minimal_Tree.py)
