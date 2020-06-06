@@ -61,7 +61,7 @@ Contains implementation of Tree data structure and some common questions and alg
 |Find the Lowest Common Ancestor in a Binary Tree and BST both                              |[java](Tree/BinaryTree/LCA.java)|
 |Create a list of all nodes at each depth                                       |[py](Tree/BinaryTree/List_Of_Depths.py)|
 |Find the maximum path sum i.e. max sum of a path in a binary tree              |[py](Tree/BinaryTree/Max_Path_Sum.py)|
-|	Find minimum depth of a binary tree                                         |[py](Tree/BinaryTree/Minimum_height.py)|
+|	Find minimum depth of a binary tree                                         |[java](Tree/BinaryTree/min_depth.java)|
 |Remove nodes on root to leaf paths of length < K                               |[py](Tree/BinaryTree/Remove_Path_Less_Than_K.py)|
 |Given a Perfect Binary Tree, reverse the alternate level nodes of the tree     |[py](Tree/BinaryTree/Reverse_Alternate_Levels_PBT.py)|
 |Print Nodes in Top View of Binary Tree                                         |[py](Tree/BinaryTree/Top_View.py)|[-](
