@@ -55,7 +55,7 @@ Contains implementation of Tree data structure and some common questions and alg
 |Check if a binary tree is height balanced                                      |[py](Tree/BinaryTree/Check_Balanced.py)|
 |Check whether a binary tree is a full binary tree or not                       |[py](Tree/BinaryTree/Check_Full_BinaryTree.py)|
 |Given two binary trees, check if the first tree is subtree of the second one   |[py](Tree/BinaryTree/Is_SubTree.py)|
-|Find the Lowest Common Ancestor in a Binary Tree                               |[py](Tree/BinaryTree/Lowest_Common_Ancestor.py)|
+|Find the Lowest Common Ancestor in a Binary Tree and BST both                              |[java](Tree/BinaryTree/LCA.java)|
 |Create a list of all nodes at each depth                                       |[py](Tree/BinaryTree/List_Of_Depths.py)|
 |Find the maximum path sum i.e. max sum of a path in a binary tree              |[py](Tree/BinaryTree/Max_Path_Sum.py)|
 |	Find minimum depth of a binary tree                                         |[py](Tree/BinaryTree/Minimum_height.py)|
