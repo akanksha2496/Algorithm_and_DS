@@ -36,7 +36,7 @@ implimentation of questions related to string or array
 |remove duplicate charcater using hash                                             |[java](String/remove.java)|
 |reverse string in given sentence                                            |[java](String/reverse_senetence.java)|
 |check whether two string rotation of each other pr not                                            |[java](String/rotation.java)|
-
+|find first non-repeating character in string                                 |[java](String/non_repeat.java)|
 
 ### Tree
 
@@ -51,6 +51,7 @@ Contains implementation of Tree data structure and some common questions and alg
 |Find the in-order ancestor of a given node in BST                              |[py](Tree/BinarySearchTree/InOrder_Ancestor.py)|
 |Given a sorted array, create a BST with minimal height                         |[py](Tree/BinarySearchTree/Minimal_Tree.py)|
 |check if binary tree is BST or not                                 |[java](Tree/BinarySearchTree/check_BST.java)|
+
 
 ##### Binary Tree
 
