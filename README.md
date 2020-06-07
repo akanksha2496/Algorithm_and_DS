@@ -31,7 +31,8 @@ implimentation of questions related to string or array
 
 | 			Topic/Question			                                            |	Code in java                           
 |-----------------------------------|:------------------:|
-|	maximum occuring character in string	                                |[java](String/maximum_occur.java)|
+|	maximum occuring character in string using hash	                                |[java](String/maximum_occur.java)|
+|maximum occuring character using BST                                             |[java](String/BST_string.java)|
 
 ### Tree
 
