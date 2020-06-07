@@ -33,7 +33,7 @@ implimentation of questions related to string or array
 |-----------------------------------|:------------------:|
 |	maximum occuring character in string using hash	                                |[java](String/maximum_occur.java)|
 |maximum occuring character using BST                                             |[java](String/BST_string.java)|
-
+|remove duplicate charcater using hash                                             |[java](String/remove.java)|
 ### Tree
 
 Contains implementation of Tree data structure and some common questions and algorithms related to it.
