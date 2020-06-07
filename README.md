@@ -17,9 +17,7 @@ My implementation of some popular data structures and algorithms and interview q
     - [Mathematics](#Mathematics)
     - [Matrix](#Matrix)
     - [Misc](#Misc)
-    - [String or Array](#String-or-Array)
-      - [Searching](#Searching)
-      - [Sorting](#Sorting)
+    - [String](#String)
     - [Tree](#Tree)
         - [Binary Search Tree](#Binary-Search-Tree)
         - [Binary Tree](#Binary-Tree)
@@ -33,7 +31,7 @@ implimentation of questions related to string or array
 
 | 			Topic/Question			                                            |	Code in java                           
 |-----------------------------------|:------------------:|
-|	maximum occuring character in string	                                |[java]()|
+|	maximum occuring character in string	                                |[java](String/maximum_occur.java)|
 
 ### Tree
 
