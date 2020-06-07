@@ -26,6 +26,22 @@ My implementation of some popular data structures and algorithms and interview q
         - [Trie](#Trie)
 
 ------------------------------------------------------------------------------
+### String or Array
+
+
+implimentation of questions related to string or array
+
+##### Searching
+
+| 			Topic/Question			                                            |	Code in java                           
+|-----------------------------------|:------------------:|
+|	maximum occuring character in string	                                |[java]()|
+##### Searching
+
+| 			Topic/Question			                                            |	Code in java                           
+|-----------------------------------|:------------------:|
+|	maximum occuring character in string using BST meanwhile after sort	                                |[java]()|
+
 ### Tree
 
 Contains implementation of Tree data structure and some common questions and algorithms related to it.
