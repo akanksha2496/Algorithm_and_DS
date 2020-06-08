@@ -37,6 +37,7 @@ implimentation of questions related to string or array
 |reverse string in given sentence                                            |[java](String/reverse_senetence.java)|
 |check whether two string rotation of each other pr not                                            |[java](String/rotation.java)|
 |find first non-repeating character in string                                 |[java](String/non_repeat.java)|
+|find smallest window in a string containing all the characters of another string.                                |[java](String/smallest_window.java)|
 
 ### Tree
 
