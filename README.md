@@ -47,6 +47,7 @@ implimentation of questions related to string or array
 |check whether two string rotation of each other pr not                                            |[java](String/rotation.java)|
 |find first non-repeating character in string                                 |[java](String/non_repeat.java)|
 |find smallest window in a string containing all the characters of another string.                                |[java](String/smallest_window.java)|
+|find celebrity in matrix                                |[java](String/celebrity.java)|
 
 ### Tree
 
