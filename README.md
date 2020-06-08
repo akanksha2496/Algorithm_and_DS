@@ -24,6 +24,15 @@ My implementation of some popular data structures and algorithms and interview q
         - [Trie](#Trie)
 
 ------------------------------------------------------------------------------
+### Heaps
+
+
+implimentation of questions related to string or array
+
+| 			Topic/Question			                                            |	Code in java                           
+|-----------------------------------|:------------------:|
+|	find k largests element from array.	                                |[java](Heap/k_largest.java)|
+
 ### String
 
 
