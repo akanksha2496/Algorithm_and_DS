@@ -12,6 +12,7 @@ My implementation of some popular data structures and algorithms and interview q
     - [Dynamic Programming](#Dynamic-Programming)
     - [Graph](#Graph)
     - [Heaps](#Heaps)
+    - [Hash](#Hash)
     - [Linked List](#Linked-List)
         - [Singly Linked List](#Singly-Linked-List)
     - [Mathematics](#Mathematics)
@@ -24,6 +25,13 @@ My implementation of some popular data structures and algorithms and interview q
         - [Trie](#Trie)
 
 ------------------------------------------------------------------------------
+### Hash
+
+
+| 			Topic/Question			                                            |	Code in java                           
+|-----------------------------------|:------------------:|
+|check whether given array contain duplicates in k distance or not   	   |[java](Hash/dups.java)|
+
 ### Heaps
 
 
@@ -63,7 +71,6 @@ Contains implementation of Tree data structure and some common questions and alg
 |Find the in-order ancestor of a given node in BST                              |[py](Tree/BinarySearchTree/InOrder_Ancestor.py)|
 |Given a sorted array, create a BST with minimal height                         |[py](Tree/BinarySearchTree/Minimal_Tree.py)|
 |check if binary tree is BST or not                                 |[java](Tree/BinarySearchTree/check_BST.java)|
-
 
 ##### Binary Tree
 
