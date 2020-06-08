@@ -32,6 +32,7 @@ implimentation of questions related to string or array
 | 			Topic/Question			                                            |	Code in java                           
 |-----------------------------------|:------------------:|
 |	find k largests element from array.	                                |[java](Heap/k_largest.java)|
+|	find meadian in running input stream.	                                |[java](Heap/median.java)|
 
 ### String
 
