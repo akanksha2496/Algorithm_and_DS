@@ -31,7 +31,9 @@ My implementation of some popular data structures and algorithms and interview q
 | 			Topic/Question			                                            |	Code in java                           
 |-----------------------------------|:------------------:|
 |check whether given array contain duplicates in k distance or not   	   |[java](Hash/dups.java)|
-
+|check whether given array contain duplicates in k distance or not   	   |[java](Hash/dups.java)|
+|find-pairs-ab-cd-array-satisfy-ab-cd                                    |[java](Hash/sum.java)|
+ 
 ### Heaps
 
 
