@@ -34,6 +34,7 @@ My implementation of some popular data structures and algorithms and interview q
 |group-multiple-occurrence-of-array-elements-ordered-by-first-occurrence |[java](Hash/group.java)|
 |two arrays disjoint or not                                              |[java](Hash/disjoint.java)|
 |find-pairs-ab-cd-array-satisfy-ab-cd                                    |[java](Hash/sum.java)|
+|count-distinct-elements-in-every-window                                    |[java](Hash/all_counts.java)|
  
 ### Heaps
 
