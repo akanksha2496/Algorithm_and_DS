@@ -31,7 +31,8 @@ My implementation of some popular data structures and algorithms and interview q
 | 			Topic/Question			                                            |	Code in java                           
 |-----------------------------------|:------------------:|
 |check whether given array contain duplicates in k distance or not   	   |[java](Hash/dups.java)|
-|check whether given array contain duplicates in k distance or not   	   |[java](Hash/dups.java)|
+|group-multiple-occurrence-of-array-elements-ordered-by-first-occurrence |[java](Hash/group.java)|
+|two arrays disjoint or not                                              |[java](Hash/disjoint.java)|
 |find-pairs-ab-cd-array-satisfy-ab-cd                                    |[java](Hash/sum.java)|
  
 ### Heaps
@@ -43,6 +44,7 @@ implimentation of questions related to string or array
 |-----------------------------------|:------------------:|
 |	find k largests element from array.	                                |[java](Heap/k_largest.java)|
 |	find meadian in running input stream.	                                |[java](Heap/median.java)|
+
 
 ### String
 
