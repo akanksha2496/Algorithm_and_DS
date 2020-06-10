@@ -31,7 +31,7 @@ My implementation of some popular data structures and algorithms and interview q
 
 | 			Topic/Question			                                            |	Code in java                           
 |-----------------------------------|:------------------:|
-|find minmax element of array in O(n) time  	   |[java](divide and conquere/divide_and_conquere.java)|
+|find minmax element of array in O(n) time  	   |[java](DivideAndConquere/divide_and_conquere.java)|
 
 
 
