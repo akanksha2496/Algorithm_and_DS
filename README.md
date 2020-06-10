@@ -10,6 +10,7 @@ My implementation of some popular data structures and algorithms and interview q
   - [Content:](#Content)
     - [Bit Manipulation](#Bit-Manipulation)
     - [Dynamic Programming](#Dynamic-Programming)
+    - [Divide and Conquere](#Divide-and-Conquere)
     - [Graph](#Graph)
     - [Heaps](#Heaps)
     - [Hash](#Hash)
@@ -25,6 +26,16 @@ My implementation of some popular data structures and algorithms and interview q
         - [Trie](#Trie)
 
 ------------------------------------------------------------------------------
+### Divide and Conquere
+
+
+| 			Topic/Question			                                            |	Code in java                           
+|-----------------------------------|:------------------:|
+|find minmax element of array in O(n) time  	   |[java](DivideAndConquere/divide_and_conquere.java)|
+
+
+
+
 ### Hash
 
 
