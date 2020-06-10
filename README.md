@@ -33,6 +33,7 @@ My implementation of some popular data structures and algorithms and interview q
 |-----------------------------------|:------------------:|
 |find minmax element of array in O(n) time  	   |[java](DivideAndConquere/divide_and_conquere.java)|
 |nuts bolts problem using O(nlogn) with quick sort |[java](DivideAndConquere/nuts_bolts.java)|
+|power calculation in log(n) time                  |[java](DivideAndConquere/pow.java)|
 
 
 ### Hash
