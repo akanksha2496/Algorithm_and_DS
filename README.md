@@ -35,6 +35,8 @@ My implementation of some popular data structures and algorithms and interview q
 |nuts bolts problem using O(nlogn) with quick sort |[java](DivideAndConquere/nuts_bolts.java)|
 |power calculation in log(n) time                  |[java](DivideAndConquere/pow.java)|
 |search an element in sorted rotated array                |[java](DivideAndConquere/sorted_rotated.java)|
+|count inversion in array               |[java](DivideAndConquere/inversion.java)|
+|finding missing number in AP.                |[java](DivideAndConquere/missing.java)|
 
 ### Hash
 
