@@ -35,6 +35,7 @@ My implementation of some popular data structures and algorithms and interview q
 |depth first search traversal |[java](Graph/dfs.java)|
 |find all the componenets of a graph                 |[java](Graph/components.java)|
 |how to create a graph structure.               |[java](Graph/graph_create.java)|
+|topological sort              |[java](Graph/topological_sort.java)|
 
 
 
