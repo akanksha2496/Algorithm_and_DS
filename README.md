@@ -26,6 +26,19 @@ My implementation of some popular data structures and algorithms and interview q
         - [Trie](#Trie)
 
 ------------------------------------------------------------------------------
+### Graph
+
+
+| 			Topic/Question			                                            |	Code in java                           
+|-----------------------------------|:------------------:|
+|breadth first search traversal  	   |[java](Graph/bfs.java)|
+|depth first search traversal |[java](Graph/dfs.java)|
+|find all the componenets of a graph                 |[java](Graph/componenets.java)|
+|how to create a graph structure.               |[java](Graph/graph_created.java)|
+
+
+
+
 ### Divide and Conquere
 
 
@@ -75,6 +88,7 @@ implimentation of questions related to string or array
 |find first non-repeating character in string                                 |[java](String/non_repeat.java)|
 |find smallest window in a string containing all the characters of another string.                                |[java](String/smallest_window.java)|
 |find celebrity in matrix                                |[java](String/celebrity.java)|
+|find occurence of string2 in string1 using indexOf()                               |[java](String/find_pattern.java)|
 
 ### Tree
 
