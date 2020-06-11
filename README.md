@@ -33,8 +33,8 @@ My implementation of some popular data structures and algorithms and interview q
 |-----------------------------------|:------------------:|
 |breadth first search traversal  	   |[java](Graph/bfs.java)|
 |depth first search traversal |[java](Graph/dfs.java)|
-|find all the componenets of a graph                 |[java](Graph/componenets.java)|
-|how to create a graph structure.               |[java](Graph/graph_created.java)|
+|find all the componenets of a graph                 |[java](Graph/components.java)|
+|how to create a graph structure.               |[java](Graph/graph_create.java)|
 
 
 
