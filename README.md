@@ -26,6 +26,14 @@ My implementation of some popular data structures and algorithms and interview q
         - [Trie](#Trie)
 
 ------------------------------------------------------------------------------
+### Mathematics
+
+
+| 			Topic/Question			                                            |	Code in java                           
+|-----------------------------------|:------------------:|
+|find whether number is lucky or not.  	   |[java](Mathematics/lucky_or_not.java)|
+
+
 ### Graph
 
 
@@ -37,7 +45,7 @@ My implementation of some popular data structures and algorithms and interview q
 |how to create a graph structure.               |[java](Graph/graph_create.java)|
 |topological sort              |[java](Graph/topological_sort.java)|
 |check wheter their exist path bwteen 2 vertices or not             |[java](Graph/path.java)|
-
+|detect cycle using dfs traversal            |[java](Graph/exist_or_not.java)|
 
 
 ### Divide and Conquere
