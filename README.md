@@ -40,8 +40,6 @@ My implementation of some popular data structures and algorithms and interview q
 |disjoint set data structure 	   |[java](Greedy_Algorithm/disjoint_setDS.java)|
 |krushkal algorithm	   |[java](Greedy_Algorithm/krushkal.java)|
 |Prims algorihtm 	   |[java](Greedy_Algorithm/Prims.java)|
-|Dijkastra  algorihtm 	   |[java](Dijkastra/Prims.java)|
-|Bellman Ford algorihtm 	   |[java](Greedy_Algorithm/Bellman.java)|
 
 ### Mathematics
 
