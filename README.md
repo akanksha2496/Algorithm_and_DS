@@ -34,10 +34,12 @@ My implementation of some popular data structures and algorithms and interview q
 |-----------------------------------|:------------------:|
 |activity selection algorithm  	   |[java](Greedy_Algorithm/activity_selection.java)|
 |Job selection algorithm  	   |[java](Greedy_Algorithm/job_selected.java)|
-|huffman coding algorithm 	   |[java](Greedy_Algorithm/Huffman.java)|
+|huffman coding algorithm 	   |[java](Greedy_Algorithm/huffman.java)|
 |disjoint set data structure 	   |[java](Greedy_Algorithm/disjoint_setDS.java)|
-
-
+|krushkal algorithm	   |[java](Greedy_Algorithm/krushkal.java)|
+|Prims algorihtm 	   |[java](Greedy_Algorithm/Prims.java)|
+|Dijkastra  algorihtm 	   |[java](Dijkastra/Prims.java)|
+|Bellman Ford algorihtm 	   |[java](Greedy_Algorithm/Bellman.java)|
 
 ### Mathematics
 
