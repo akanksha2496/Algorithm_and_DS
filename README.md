@@ -8,7 +8,6 @@ My implementation of some popular data structures and algorithms and interview q
 - [Data Structures and Algorithms](#Data-Structures-and-Algorithms)
   - [Index:](#Index)
   - [Content:](#Content)
-    - [Basic inital implementation of Data Structure](#akanksha2496/Data-Striucture-implimentation)
     - [Bit Manipulation](#Bit-Manipulation)
     - [Dynamic Programming](#Dynamic-Programming)
     - [Divide and Conquere](#Divide-and-Conquere)
@@ -28,8 +27,7 @@ My implementation of some popular data structures and algorithms and interview q
         - [Trie](#Trie)
 
 ------------------------------------------------------------------------------
-###   [Basic inital implementation of Data Structure]
-|Data-Striucture-implimentation|(akanksha2496/Data-Striucture-implimentation)|
+
 
 ### Greedy_Algorithm
 
