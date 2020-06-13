@@ -12,6 +12,7 @@ My implementation of some popular data structures and algorithms and interview q
     - [Dynamic Programming](#Dynamic-Programming)
     - [Divide and Conquere](#Divide-and-Conquere)
     - [Graph](#Graph)
+    - [Greed_Algorithm](#Greed_Algorithm)
     - [Heaps](#Heaps)
     - [Hash](#Hash)
     - [Linked List](#Linked-List)
@@ -26,6 +27,18 @@ My implementation of some popular data structures and algorithms and interview q
         - [Trie](#Trie)
 
 ------------------------------------------------------------------------------
+### Greedy_Algorithm
+
+
+| 			Topic/Question			                                            |	Code in java                           
+|-----------------------------------|:------------------:|
+|activity selection algorithm  	   |[java](Greedy_Algorithm/activity_selection.java)|
+|Job selection algorithm  	   |[java](Greedy_Algorithm/job_selected.java)|
+|huffman coding algorithm 	   |[java](Greedy_Algorithm/Huffman_Algorithm.java)|
+|disjoint set data structure 	   |[java](Greedy_Algorithm/disjoint_setDS.java)|
+
+
+
 ### Mathematics
 
 
