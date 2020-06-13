@@ -12,7 +12,7 @@ My implementation of some popular data structures and algorithms and interview q
     - [Dynamic Programming](#Dynamic-Programming)
     - [Divide and Conquere](#Divide-and-Conquere)
     - [Graph](#Graph)
-    - [Greed_Algorithm](#Greed_Algorithm)
+    - [Greedy_Algorithm](#Greed_Algorithm)
     - [Heaps](#Heaps)
     - [Hash](#Hash)
     - [Linked List](#Linked-List)
