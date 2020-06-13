@@ -22,6 +22,7 @@ class Graph
 	  int src,dest,weight;
 	
 	@Override
+	  //sort edges in increasing order;
 	public int compareTo(Edges o) {
 		// TODO Auto-generated method stub
 		 return this.weight-o.weight;
