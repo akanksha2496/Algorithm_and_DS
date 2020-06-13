@@ -28,6 +28,9 @@ My implementation of some popular data structures and algorithms and interview q
         - [Trie](#Trie)
 
 ------------------------------------------------------------------------------
+###   [Basic inital implementation of Data Structure]
+|Data-Striucture-implimentation|(akanksha2496/Data-Striucture-implimentation)|
+
 ### Greedy_Algorithm
 
 
