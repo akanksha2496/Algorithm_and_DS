@@ -113,8 +113,7 @@ implimentation of questions related to string or array
 |find smallest window in a string containing all the characters of another string.                                |[java](String/smallest_window.java)|
 |find celebrity in matrix                                |[java](String/celebrity.java)|
 |find occurence of string2 in string1 using indexOf()                               |[java](String/find_pattern.java)|
-|permuataions of string                              |[java](String/permutations_string.java
-.java)|
+|permuataions of string                              |[java](String/permutations_string.java)|
 
 
 ### Tree
