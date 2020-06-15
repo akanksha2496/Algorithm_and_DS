@@ -21,12 +21,21 @@ My implementation of some popular data structures and algorithms and interview q
     - [Matrix](#Matrix)
     - [Misc](#Misc)
     - [String](#String)
+    - [Array](#Array)
     - [Tree](#Tree)
         - [Binary Search Tree](#Binary-Search-Tree)
         - [Binary Tree](#Binary-Tree)
         - [Trie](#Trie)
 
 ------------------------------------------------------------------------------
+### Array 
+
+| 			Topic/Question			                                            |	Code in java                           
+|-----------------------------------|:------------------:|
+|find longest pallindrome in a word.  	   |[java](Array/Array_manipulation.java)|
+
+
+
 ### Dynamic-Programming
 
 | 			Topic/Question			                                            |	Code in java                           
