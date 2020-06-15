@@ -32,7 +32,7 @@ My implementation of some popular data structures and algorithms and interview q
 
 | 			Topic/Question			                                            |	Code in java                           
 |-----------------------------------|:------------------:|
-|find longest pallindrome in a word.  	   |[java](Array/Array_manipulation.java)|
+|Array manupulation using prefix sum property in array(O(n) time). 	   |[java](Array/Array_manipulation.java)|
 
 
 
