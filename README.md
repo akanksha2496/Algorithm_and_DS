@@ -27,6 +27,13 @@ My implementation of some popular data structures and algorithms and interview q
         - [Trie](#Trie)
 
 ------------------------------------------------------------------------------
+### Dynamic-Programming
+
+| 			Topic/Question			                                            |	Code in java                           
+|-----------------------------------|:------------------:|
+|find longest pallindrome in a word.  	   |[java](Dynamic_Programming/longest_pallindrome.java)|
+
+
 
 
 ### Greedy_Algorithm
