@@ -130,6 +130,7 @@ implimentation of questions related to string or array
 |find celebrity in matrix                                |[java](String/celebrity.java)|
 |find occurence of string2 in string1 using indexOf()                               |[java](String/find_pattern.java)|
 |permuataions of string                              |[java](String/permutations_string.java)|
+|remove duplicate including white space in a string.  |[java](String/duplicate_with_whiteSpace.java)|
 
 
 ### Tree
