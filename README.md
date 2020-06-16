@@ -41,6 +41,7 @@ My implementation of some popular data structures and algorithms and interview q
 | 			Topic/Question			                                            |	Code in java                           
 |-----------------------------------|:------------------:|
 |find longest pallindrome in a word.  	   |[java](Dynamic_Programming/Longest_pallindome.java)|
+|mimimum number of insertion to form pallindrome in O(n2) using LCS |[java](Dynamic_Programming/min_insert.java)|
 
 
 
