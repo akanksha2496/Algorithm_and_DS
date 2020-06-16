@@ -41,7 +41,7 @@ My implementation of some popular data structures and algorithms and interview q
 | 			Topic/Question			                                            |	Code in java                           
 |-----------------------------------|:------------------:|
 |find longest pallindrome in a word.  	   |[java](Dynamic_Programming/Longest_pallindome.java)|
-|mimimum number of insertion to form pallindrome in O(n2) using LCS |[java](Dynamic_Programming/min_insert.java)|
+|minimum number of insertion to form pallindrome in O(n2) using LCS |[java](Dynamic_Programming/min_insert.java)|
 
 
 
@@ -132,6 +132,7 @@ implimentation of questions related to string or array
 |find occurence of string2 in string1 using indexOf()                               |[java](String/find_pattern.java)|
 |permuataions of string                              |[java](String/permutations_string.java)|
 |remove duplicate including white space in a string.  |[java](String/duplicate_with_whiteSpace.java)|
+|Longest Distinct characters in string                 |[java](String/longest.java)|  
 
 
 ### Tree
