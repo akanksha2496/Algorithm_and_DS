@@ -134,6 +134,7 @@ implimentation of questions related to string or array
 |remove duplicate including white space in a string.  |[java](String/duplicate_with_whiteSpace.java)|
 |Longest Distinct characters in string                 |[java](String/longest.java)|  
 |impliment atoi                                         |[java](String/atoi.java)| 
+|strstr implimentation to find first ocuurence of a word in another string like indexOf()    |[java](String/strstr.java)| 
 
 
 ### Tree
