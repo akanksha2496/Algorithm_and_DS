@@ -16,7 +16,6 @@ My implementation of some popular data structures and algorithms and interview q
     - [Heaps](#Heaps)
     - [Hash](#Hash)
     - [Linked List](#Linked-List)
-        - [Singly Linked List](#Singly-Linked-List)
     - [Mathematics](#Mathematics)
     - [Matrix](#Matrix)
     - [Misc](#Misc)
@@ -32,7 +31,7 @@ My implementation of some popular data structures and algorithms and interview q
 
 | 			Topic/Question			                                            |	Code in java                           
 |-----------------------------------|:------------------:|
-|Reverse a Linked List in groups of given size. 	   |[java](LinkedList/rev_size.java)|
+|Reverse a Linked List in groups of given size. 	   |[java](LinkedList/rev_list.java)|
 
 
 ### Array 
