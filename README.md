@@ -133,6 +133,7 @@ implimentation of questions related to string or array
 |permuataions of string                              |[java](String/permutations_string.java)|
 |remove duplicate including white space in a string.  |[java](String/duplicate_with_whiteSpace.java)|
 |Longest Distinct characters in string                 |[java](String/longest.java)|  
+|impliment atoi                                         |[java](String/atoi.java)| 
 
 
 ### Tree
