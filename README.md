@@ -32,7 +32,7 @@ My implementation of some popular data structures and algorithms and interview q
 
 | 			Topic/Question			                                            |	Code in java                           
 |-----------------------------------|:------------------:|
-|Reverse a Linked List in groups of given size. 	   |[java](Array/rev_size.java)|
+|Reverse a Linked List in groups of given size. 	   |[java](LinkedList/rev_size.java)|
 
 
 ### Array 
