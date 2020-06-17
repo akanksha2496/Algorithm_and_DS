@@ -39,6 +39,7 @@ My implementation of some popular data structures and algorithms and interview q
 | 			Topic/Question			                                            |	Code in java                           
 |-----------------------------------|:------------------:|
 |Array manupulation using prefix sum property in array(O(n) time). 	   |[java](Array/Array_manipulation.java)|
+|largest-number-formed-from-an-array   |[java](Array/LargestNumber.java)|
 
 
 
