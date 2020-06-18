@@ -40,6 +40,8 @@ My implementation of some popular data structures and algorithms and interview q
 |-----------------------------------|:------------------:|
 |Array manupulation using prefix sum property in array(O(n) time). 	   |[java](Array/Array_manipulation.java)|
 |largest-number-formed-from-an-array   |[java](Array/LargestNumber.java)|
+|Minimum platforms for different trains arrive with their time.   |[java](Array/minimumPlatform.java)|
+
 
 
 
