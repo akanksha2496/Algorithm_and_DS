@@ -53,6 +53,9 @@ My implementation of some popular data structures and algorithms and interview q
 |find longest pallindrome in a word.  	   |[java](Dynamic_Programming/Longest_pallindome.java)|
 |minimum number of insertion to form pallindrome in O(n2) using LCS |[java](Dynamic_Programming/min_insert.java)|
 |longest common substring in java                         |[java](Dynamic_Programming/longestCommonSubstring.java)|
+|longest Increasing subsequnce                        |[java](Dynamic_Programming/LIS.java)|
+
+
 
 
 
