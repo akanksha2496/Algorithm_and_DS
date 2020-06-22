@@ -55,7 +55,7 @@ My implementation of some popular data structures and algorithms and interview q
 |longest common substring in java                         |[java](Dynamic_Programming/longestCommonSubstring.java)|
 |longest Increasing subsequnce                        |[java](Dynamic_Programming/LIS.java)|
 |Coin Changes                                         |[java](Dynamic_Programming/CoinChange.java)|
-
+|Maximize the cut segements                                         |[java](Dynamic_Programming/rod_cut.java)|
 
 
 
