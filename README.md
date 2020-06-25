@@ -118,6 +118,7 @@ My implementation of some popular data structures and algorithms and interview q
 |two arrays disjoint or not                                              |[java](Hash/disjoint.java)|
 |find-pairs-ab-cd-array-satisfy-ab-cd                                    |[java](Hash/sum.java)|
 |count-distinct-elements-in-every-window                                    |[java](Hash/all_counts.java)|
+|common elements finding using retainAll                                    |[java](Hash/common.java)|
  
 ### Heaps
 
