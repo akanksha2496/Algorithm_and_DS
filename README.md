@@ -153,6 +153,8 @@ implimentation of questions related to string or array
 |impliment atoi                                         |[java](String/atoi.java)| 
 |strstr implimentation to find first ocuurence of a word in another string like indexOf()    |[java](String/strstr.java)| 
 |Given a array of N strings, find the longest common prefix among all strings present in the array.    |[java](String/commonPrefix.java)| 
+|Second most repeated string among n input strings using hash.    |[java](String/MostRepeated.java)| 
+
 
 
 ### Tree
