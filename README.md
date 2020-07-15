@@ -25,8 +25,16 @@ My implementation of some popular data structures and algorithms and interview q
         - [Binary Search Tree](#Binary-Search-Tree)
         - [Binary Tree](#Binary-Tree)
         - [Trie](#Trie)
+    - [Matrix](#Matrix)
 
 ------------------------------------------------------------------------------
+
+### Matrix
+
+| 			Topic/Question			                                            |	Code in java                           
+|-----------------------------------|:------------------:|
+|Rotten Orange. 	   |[java](Matrix/RottenOrange.java)|
+
 ### Linked-List
 
 | 			Topic/Question			                                            |	Code in java                           
