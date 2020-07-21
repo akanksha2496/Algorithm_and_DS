@@ -34,6 +34,7 @@ My implementation of some popular data structures and algorithms and interview q
 | 			Topic/Question			                                            |	Code in java                           
 |-----------------------------------|:------------------:|
 |Rotten Orange. 	   |[java](Matrix/RottenOrange.java)|
+|find number of islands in matrix. 	   |[java](Matrix/islands.java)|
 
 ### Linked-List
 
