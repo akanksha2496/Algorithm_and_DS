@@ -52,6 +52,7 @@ My implementation of some popular data structures and algorithms and interview q
 |choclate distribution problem                                    |[java](Array/choclate_distribution.java)|
 |Minimum platforms for different trains arrive with their time.   |[java](Array/minimumPlatform.java)|
 |overlapping Intervals                                            |[java](Array/interval.java)|
+|Minimum swap required to convert binary tree to binary search tree                                           |[java](Array/inorder.java)|
 
 
 
