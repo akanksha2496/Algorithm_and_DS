@@ -165,7 +165,10 @@ implimentation of questions related to string or array
 |Given a array of N strings, find the longest common prefix among all strings present in the array.    |[java](String/commonPrefix.java)| 
 |Second most repeated string among n input strings using hash.    |[java](String/MostRepeated.java)| 
 |Given two unsorted arrays A of size N and B of size M of distinct elements, the task is to find all pairs from both arrays whose sum is equal to X.    |[java](String/find_pairs.java)| 
-|17. Letter Combinations of a Phone Number(LEETCODE)  |[java](String/digits.java)| 
+|Letter Combinations of a Phone Number(LEETCODE)  |[java](String/digits.java)| 
+|Interleaved String  |[java](String/InterleavedString.java)| 
+
+
 
 
 ### Tree
