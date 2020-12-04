@@ -67,6 +67,8 @@ My implementation of some popular data structures and algorithms and interview q
 |Coin Changes                                         |[java](Dynamic_Programming/CoinChange.java)|
 |Maximize the cut segements                                         |[java](Dynamic_Programming/rod_cut.java)|
 |Minimum sum partition of subset to make partitions equal           |[java](Dynamic_Programming/MinSumPartition.java)|
+|Domino Placement           |[java](Dynamic_Programming/DominoPlacement.java)|
+
 
 
 
