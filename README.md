@@ -126,6 +126,8 @@ My implementation of some popular data structures and algorithms and interview q
 |search an element in sorted rotated array                |[java](DivideAndConquere/sorted_rotated.java)|
 |count inversion in array               |[java](DivideAndConquere/inversion.java)|
 |finding missing number in AP.                |[java](DivideAndConquere/missing.java)|
+|fixed point with logn.                |[java](DivideAndConquere/fixed_point.java)|
+
 
 ### Hash
 
