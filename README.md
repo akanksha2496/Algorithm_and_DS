@@ -211,3 +211,6 @@ Contains implementation of Tree data structure and some common questions and alg
 |Find the Lowest Common Ancestor in a Binary Tree and BST both                              |[java](Tree/BinaryTree/LCA.java)|
 |	Find minimum depth of a binary tree                                         |[java](Tree/BinaryTree/min_depth.java)|
 |Print Spiral trversal of BT                                                   |[java](Tree/BinaryTree/ZigZag.java)|
+|Find Count of Single Valued Subtrees                                                |[java](Tree/BinaryTree/SingleValuedSubtrees.java)|
+
+
