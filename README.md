@@ -63,7 +63,6 @@ My implementation of some popular data structures and algorithms and interview q
 
 
 
-
 ### Dynamic-Programming
 
 | 			Topic/Question			                                            |	Code in java                           
@@ -77,7 +76,8 @@ My implementation of some popular data structures and algorithms and interview q
 |Minimum sum partition of subset to make partitions equal           |[java](Dynamic_Programming/MinSumPartition.java)|
 |Domino Placement           |[java](Dynamic_Programming/DominoPlacement.java)|
 |InverseFactorial           |[java](Dynamic_Programming/InverseFactorial.java)|
-
+|Find the Largest Number in a Rotated List             |[java](Dynamic_Programming/rotated.java )|
+|Divisible Numbers           |[java](Dynamic_Programming/divisiblenumber.java)|
 
 
 
