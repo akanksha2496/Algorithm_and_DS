@@ -35,6 +35,8 @@ My implementation of some popular data structures and algorithms and interview q
 |-----------------------------------|:------------------:|
 |Rotten Orange. 	   |[java](Matrix/RottenOrange.java)|
 |find number of islands in matrix. 	   |[java](Matrix/islands.java)|
+|rotate image. 	   |[java](Matrix/rotateImage.java)|
+
 
 ### Linked-List
 
