@@ -224,5 +224,5 @@ Contains implementation of Tree data structure and some common questions and alg
 
 | 			Topic			                                            |	link                          
 |-----------------------------------|:------------------:|
-|TreeSet                                |[Link](Java Syntax/Tree)|
+|TreeSet                                |[Link](JavaSyntax/Tree)|
 
