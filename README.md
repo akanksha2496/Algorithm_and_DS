@@ -26,6 +26,7 @@ My implementation of some popular data structures and algorithms and interview q
         - [Binary Tree](#Binary-Tree)
         - [Trie](#Trie)
     - [Matrix](#Matrix)
+    - [Java Syntax]
 
 ------------------------------------------------------------------------------
 
@@ -219,4 +220,9 @@ Contains implementation of Tree data structure and some common questions and alg
 |Print Spiral trversal of BT                                                   |[java](Tree/BinaryTree/ZigZag.java)|
 |Find Count of Single Valued Subtrees                                                |[java](Tree/BinaryTree/SingleValuedSubtrees.java)|
 
+##### Java_Syntax
+
+| 			Topic			                                            |	link                          
+|-----------------------------------|:------------------:|
+|TreeSet                                |[java](Tree/BinarySearchTree/check_BST.java)|
 
