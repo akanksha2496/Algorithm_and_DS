@@ -26,7 +26,7 @@ My implementation of some popular data structures and algorithms and interview q
         - [Binary Tree](#Binary-Tree)
         - [Trie](#Trie)
     - [Matrix](#Matrix)
-    - [Java Syntax]
+    - [Java Syntax](#Java_Syntax)
 
 ------------------------------------------------------------------------------
 
