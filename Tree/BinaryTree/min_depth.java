@@ -1,19 +1,33 @@
-package Find_minimum_depth_of_BT;
-public class min_depth {
-	public static void main(String[] args)
-	{
-		
-//       BT creation
-		Node root = new Node(1);
-		root.left = new Node(2);
-		root.right = new Node(3);
-		root.right.left = new Node(5);
-		root.right.right = new Node(6);
-		root.right.left.left = new Node(7);
-		root.right.left.right = new Node(8);
-		root.right.left.right.left = new Node(9);
-		root.right.left.right.right = new Node(10);
-//
-		printVertical(root);
-	}
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
+class Solution {
+    public int l=0;
+    public int r=0;
+    public int minDepth(TreeNode root) {
+        
+        if(root==null)
+            return 0;
+        if(root.left==null && root.right==null)
+            return 1;
+        if(root.left==null)
+         return 1+ minDepth(root.right);
+         if(root.right==null)
+         return 1+minDepth(root.left);
+        
+        return 1+Math.min(minDepth(root.left),minDepth(root.right));
+        
+    }
 }
